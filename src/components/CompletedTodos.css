@@ -1,0 +1,7 @@
+.completed-container .todo-item {
+  opacity: .5;
+}
+
+.strike-through {
+  text-decoration: line-through;
+}

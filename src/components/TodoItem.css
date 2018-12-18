@@ -1,0 +1,30 @@
+.todo-item {
+  width: 58%;
+  width: 300px;
+  margin-bottom: 6%;
+  width: 73%;
+}
+
+.todo-item p {
+  display: inline-block;
+  min-width: 150px;
+  margin: 0;
+}
+
+.icon-container {
+  float: right;
+  margin-right: 11%;
+}
+
+button {
+  background: none;
+  border: none;
+  font-size: 16px;
+  color: rgb(146, 146, 146);
+  margin-right: 16px;
+  font-weight: bold;
+}
+
+button:hover {
+  cursor: pointer;
+}
